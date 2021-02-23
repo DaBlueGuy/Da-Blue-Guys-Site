@@ -1,2 +1,2 @@
-# Da-Blue-Guys-Site
-My website for doing whatever. HTML and CSS is pog.
+# Da Blue Guy's Site
+My website for doing whatever.
