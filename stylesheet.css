@@ -1,6 +1,7 @@
 body
 {
     background-color: #ddeeff;
+    font-family: "Consolas";
 }
 textarea
 {
@@ -21,7 +22,36 @@ textarea
 .slotate {
     animation: rotation 10s infinite linear;
     margin-left: 15%;
-  }
+}
 .gotate {
     animation: rotation 0.3s infinite linear;
-  }
+}
+.borderleft
+{
+    border: 1px inset black;
+    background-color: white;
+    width: 30%;
+    margin-left: 10%;
+    margin-right: 60%;
+    margin-top: 3%;
+    text-align: center;
+    padding: 10px;
+}
+.borderright
+{
+    border: 1px inset black;
+    background-color: white;
+    width: 30%;
+    margin-left: 60%;
+    margin-right: 10%;
+    margin-top: 3%;
+    text-align: center;
+    padding: 10px;
+}
+.pardiv
+{
+  float: left;
+  clear: none;
+  border: 1px inset black;
+  height: 100px;
+}
