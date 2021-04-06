@@ -1,8 +1,57 @@
-<!DOCTYPE html>
-<head>
-  <link rel="stylesheet" href="stylesheet.css">
-</head>
-<body>
-  Ethan
-</body>
-</html>
+body
+{
+    background-color: #ddeeff;
+    font-family: "Consolas";
+}
+textarea
+{
+    resize: none;
+}
+.rotate {
+    animation: rotation 1s infinite cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
+  
+  @keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }
+.slotate {
+    animation: rotation 10s infinite linear;
+    margin-left: 15%;
+}
+.gotate {
+    animation: rotation 0.3s infinite linear;
+}
+.borderleft
+{
+    border: 1px inset black;
+    background-color: white;
+    width: 30%;
+    margin-left: 10%;
+    margin-right: 60%;
+    margin-top: 3%;
+    text-align: center;
+    padding: 10px;
+}
+.borderright
+{
+    border: 1px inset black;
+    background-color: white;
+    width: 30%;
+    margin-left: 60%;
+    margin-right: 10%;
+    margin-top: 3%;
+    text-align: center;
+    padding: 10px;
+}
+.pardiv
+{
+  float: left;
+  clear: none;
+  border: 1px inset black;
+  height: 100px;
+}
