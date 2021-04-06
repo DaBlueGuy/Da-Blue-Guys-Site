@@ -53,6 +53,11 @@ textarea
   position: absolute;
   float: left;
   clear: none;
-  border: 1px inset black;
   height: 200px;
+}
+.begin
+{
+  text-align: center;
+  font-weight: 1000;
+  font-size: 100px;
 }
