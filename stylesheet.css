@@ -48,10 +48,11 @@ textarea
     text-align: center;
     padding: 10px;
 }
-.pardiv
+.par > div
 {
+  position: absolute;
   float: left;
   clear: none;
   border: 1px inset black;
-  height: 100px;
+  height: 200px;
 }
