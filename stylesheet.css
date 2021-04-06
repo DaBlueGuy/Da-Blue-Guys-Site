@@ -61,3 +61,28 @@ textarea
   font-weight: 1000;
   font-size: 100px;
 }
+.spinpear{
+  animation: spinpear 1s 1 cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.titleappear{
+  animation: titleappear 2s 1 cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+@keyframes spinpear {
+  from {
+    transform: rotate(270deg) scale(0,0);
+  }
+  to {
+    transform: rotate(360deg) scale(1,1);
+  }
+}
+
+@keyframes titleappear {
+  from {
+    transform: scale(0,0);
+  }
+  to {
+    transform: scale(1,1);
+  }
+}
