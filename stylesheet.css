@@ -58,14 +58,14 @@ textarea
     margin-top: 3%;
     text-align: center;
     padding: 10px;
-    height: 150px;
+    height: 200px;
 }
 .par > div
 {
   position: absolute;
   float: left;
   clear: none;
-  height: 150px;
+  height: 200px;
 }
 .begin
 {
