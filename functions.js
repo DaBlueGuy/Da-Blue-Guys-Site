@@ -1,4 +1,5 @@
 function Slide1(){
+    document.getElementById("title").textContent = "Avril 6";
     document.getElementById("t1").textContent = "Personnalité";
     document.getElementById("t2").textContent = "Centres d'intérêt";
     document.getElementById("t3").textContent = "Ma famille";
@@ -10,6 +11,7 @@ function Slide1(){
 }
 
 function Slide2(){
+    document.getElementById("title").textContent = "Avril 7";
     document.getElementById("t1").textContent = "Assiette Alimentaire, Fruits";
     document.getElementById("t2").textContent = "Assiette Alimentaire, Légumes";
     document.getElementById("t3").textContent = "Assiette Alimentaire, Boissons";
@@ -21,6 +23,7 @@ function Slide2(){
 }
 
 function Slide3(){
+    document.getElementById("title").textContent = "Avril 8";
     document.getElementById("t1").textContent = "";
     document.getElementById("t2").textContent = "";
     document.getElementById("t3").textContent = "";
@@ -32,6 +35,7 @@ function Slide3(){
 }
 
 function Slide4(){
+    document.getElementById("title").textContent = "Avril 9";
     document.getElementById("t1").textContent = "";
     document.getElementById("t2").textContent = "";
     document.getElementById("t3").textContent = "";
@@ -43,6 +47,7 @@ function Slide4(){
 }
 
 function Slide5(){
+    document.getElementById("title").textContent = "Avril ";
     document.getElementById("t1").textContent = "";
     document.getElementById("t2").textContent = "";
     document.getElementById("t3").textContent = "";
@@ -54,6 +59,7 @@ function Slide5(){
 }
 
 function Slide6(){
+    document.getElementById("title").textContent = "Avril ";
     document.getElementById("t1").textContent = "";
     document.getElementById("t2").textContent = "";
     document.getElementById("t3").textContent = "";
