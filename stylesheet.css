@@ -31,8 +31,8 @@ textarea
     border: 1px inset black;
     background-color: white;
     width: 30%;
-    margin-left: 10%;
-    margin-right: 60%;
+    margin-left: 12%;
+    margin-right: 58%;
     margin-top: 3%;
     text-align: center;
     padding: 10px;
@@ -42,8 +42,19 @@ textarea
     border: 1px inset black;
     background-color: white;
     width: 30%;
-    margin-left: 60%;
-    margin-right: 10%;
+    margin-left: 58%;
+    margin-right: 12%;
+    margin-top: 3%;
+    text-align: center;
+    padding: 10px;
+}
+.borderwhite
+{
+    border: 1px inset black;
+    background-color: white;
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
     margin-top: 3%;
     text-align: center;
     padding: 10px;
@@ -53,7 +64,7 @@ textarea
   position: absolute;
   float: left;
   clear: none;
-  height: 200px;
+  height: 150px;
 }
 .begin
 {
@@ -61,15 +72,15 @@ textarea
   font-weight: 1000;
   font-size: 100px;
 }
-.spinpear{
-  animation: spinpear 1s 1 cubic-bezier(0.175, 0.885, 0.32, 1.275);
+.spinappear{
+  animation: spinappear 1s 1 cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
 .titleappear{
   animation: titleappear 2s 1 cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
-@keyframes spinpear {
+@keyframes spinappear {
   from {
     transform: rotate(270deg) scale(0,0);
   }
