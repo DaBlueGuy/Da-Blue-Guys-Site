@@ -45,27 +45,3 @@ function Slide4(){
     document.getElementById("c3").textContent = "";
     document.getElementById("c4").textContent = "";
 }
-
-function Slide5(){
-    document.getElementById("title").textContent = "Avril ";
-    document.getElementById("t1").textContent = "";
-    document.getElementById("t2").textContent = "";
-    document.getElementById("t3").textContent = "";
-    document.getElementById("t4").textContent = "";
-    document.getElementById("c1").textContent = "";
-    document.getElementById("c2").textContent = "";
-    document.getElementById("c3").textContent = "";
-    document.getElementById("c4").textContent = "";
-}
-
-function Slide6(){
-    document.getElementById("title").textContent = "Avril ";
-    document.getElementById("t1").textContent = "";
-    document.getElementById("t2").textContent = "";
-    document.getElementById("t3").textContent = "";
-    document.getElementById("t4").textContent = "";
-    document.getElementById("c1").textContent = "";
-    document.getElementById("c2").textContent = "";
-    document.getElementById("c3").textContent = "";
-    document.getElementById("c4").textContent = "";
-}
