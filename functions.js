@@ -1,5 +1,5 @@
 function Slide1(){
-    document.getElementById("link").textContent = "Avril 6";
+    document.getElementById("link").textContent = "Famille";
     document.getElementById("link").href = "me.jpg";
     document.getElementById("t1").textContent = "Personnalite";
     document.getElementById("t2").textContent = "Centres d'interet";
@@ -8,24 +8,24 @@ function Slide1(){
     document.getElementById("c1").textContent = "Je suis gentil, empathique et curieux.";
     document.getElementById("c2").textContent = "J'aime construire dans Minecraft, programmer en Python et C#, et jouer a des jeux avec mes soeurs.";
     document.getElementById("c3").textContent = "J'ai ma mere, mon pere, mes deux soeurs et mon chien. Mes deux parents sont enseignants.";
-    document.getElementById("c4").textContent = "J'aime les mathématiques et les sciences. Je n'aime pas les cours d'anglais.";
+    document.getElementById("c4").textContent = "J'aime les mathematiques et les sciences. Je n'aime pas les cours d'anglais.";
 }
 
 function Slide2(){
-    document.getElementById("link").textContent = "Avril 7";
+    document.getElementById("link").textContent = "Gastronomie";
     document.getElementById("link").href = "qwertasdfgzxcvb.png";
     document.getElementById("t1").textContent = "Assiette Alimentaire, Fruits";
     document.getElementById("t2").textContent = "Assiette Alimentaire, Légumes";
     document.getElementById("t3").textContent = "Assiette Alimentaire, Boissons";
     document.getElementById("t4").textContent = "Assiette Alimentaire, Desserts";
-    document.getElementById("c1").textContent = "Pour le déjeuner, je mange des pommes.";
+    document.getElementById("c1").textContent = "Pour le dejeuner, je mange des pommes.";
     document.getElementById("c2").textContent = "Je mange du houmous et des chips.";
     document.getElementById("c3").textContent = "Je bois du lait.";
     document.getElementById("c4").textContent = "Je mange de la glace pour le dessert.";
 }
 
 function Slide3(){
-    document.getElementById("link").textContent = "Avril 8";
+    document.getElementById("link").textContent = "Cinema";
     document.getElementById("link").href = "hary.jpg";
     document.getElementById("t1").textContent = "Le Film";
     document.getElementById("t2").textContent = "Mes Vetements";
@@ -38,14 +38,14 @@ function Slide3(){
 }
 
 function Slide4(){
-    document.getElementById("link").textContent = "Avril 9";
-    document.getElementById("link").href = "qwertasdfgzxcvb.png";
-    document.getElementById("t1").textContent = "";
-    document.getElementById("t2").textContent = "";
+    document.getElementById("link").textContent = "Voyager";
+    document.getElementById("link").href = "";
+    document.getElementById("t1").textContent = "Se rendre en Croatie";
+    document.getElementById("t2").textContent = "Itineraire de Tucepi a Korcula";
     document.getElementById("t3").textContent = "";
     document.getElementById("t4").textContent = "";
-    document.getElementById("c1").textContent = "";
-    document.getElementById("c2").textContent = "";
+    document.getElementById("c1").textContent = "Je vais aller en Croatie. Je vais aller a Tucepi, puis je vais aller a Korcula, parce que les deux endroits sont agreables.";
+    document.getElementById("c2").textContent = "Vous devez d'abord vous rendre a Trajektno pristaniste Ploce. Ensuite, vous devez prendre un bateau jusqu'a Trpanj. Puis conduire jusqu'a Orebic, et enfin, prendre un autre bateau jusqu'au terminal Car Ferry Korcula a Orebic.";
     document.getElementById("c3").textContent = "";
     document.getElementById("c4").textContent = "";
 }
