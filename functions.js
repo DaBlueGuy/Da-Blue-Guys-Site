@@ -39,7 +39,7 @@ function Slide3(){
 
 function Slide4(){
     document.getElementById("link").textContent = "Voyager";
-    document.getElementById("link").href = "";
+    document.getElementById("link").href = "school.html";
     document.getElementById("t1").textContent = "Se rendre en Croatie";
     document.getElementById("t2").textContent = "Itineraire de Tucepi a Korcula";
     document.getElementById("t3").textContent = "";
