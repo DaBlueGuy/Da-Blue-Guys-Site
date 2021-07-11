@@ -1,7 +1,8 @@
 body
 {
-    background-color: #ddeeff;
+    background-color: #333333;
     font-family: "Calibri";
+    color: #cccccc
 }
 textarea
 {
